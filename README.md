@@ -14,27 +14,18 @@ In parallel to these degrees, I also started an atypical programming school base
 #### &#127760; Social
 
 [![Github - Auguste](https://img.shields.io/badge/Github-Auguste-blue?logo=Github)](https://github.com/Aaramis)
-
 [![Linkedin - Auguste](https://img.shields.io/badge/Linkedin-Auguste-blue?logo=Linkedin)](www.linkedin.com/in/auguste-gardette)
 
 #### &#128295; Technologies & Tools
 
 ![Linux](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=2bbc8a) 
-
 ![Python](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=2bbc8a) 
-
 ![Bash](https://img.shields.io/badge/Shell-Bash-informational?style=flat&logo=gnu-bash&logoColor=white&color=2bbc8a) 
-
 ![Docker](https://img.shields.io/badge/Tools-Docker-informational?style=flat&logo=docker&logoColor=white&color=2bbc8a) 
-
 ![AWS](https://img.shields.io/badge/Cloud-AWS-informational?style=flat&logo=amazon&logoColor=white&color=2bbc8a) 
-
 ![Git](https://img.shields.io/badge/Tools-Git-informational?style=flat&logo=git&logoColor=white&color=2bbc8a) 
-
-![Tools - C](https://img.shields.io/badge/Tools-C-Black?logo=C)
-
-![Tools - R](https://img.shields.io/badge/Tools-R-blue?logo=R)
-
+![Tools - C](https://img.shields.io/badge/Tools-C-Black?logo=C&logoColor=white&color=2bbc8a)
+![Tools - R](https://img.shields.io/badge/Tools-R-blue?logo=R&logoColor=white&color=2bbc8a)
 ![PostgreSQL](https://img.shields.io/badge/Tools-PostgreSQL-informational?style=flat&logo=postgresql&logoColor=white&color=2bbc8a) 
 
 
