@@ -27,7 +27,3 @@ In parallel to these degrees, I also started an atypical programming school base
 ![Tools - C](https://img.shields.io/badge/Tools-C-Black?logo=C&logoColor=white&color=2bbc8a)
 ![Tools - R](https://img.shields.io/badge/Tools-R-blue?logo=R&logoColor=white&color=2bbc8a)
 ![PostgreSQL](https://img.shields.io/badge/Tools-PostgreSQL-informational?style=flat&logo=postgresql&logoColor=white&color=2bbc8a) 
-
-
-Passionate by computer science, software engineering and genetic, I am a fast learner and  comfortable working in both team and self-directed settings. Today, I wish to deepen my skills in bioinformatics by doing a 6-month internship at Verily from February 27 to August 31.
-
