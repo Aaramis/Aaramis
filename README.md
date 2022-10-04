@@ -1,6 +1,6 @@
 ### Hi 👋 
 
-My Name is Auguste Gardette and I come from France, [Britanny](https://en.wikipedia.org/wiki/Brittany). I am currently seeking for a 6-months internship in California from February 27 to August 31 in Computational Biology.
+My Name is Auguste Gardette and I come from France, [Britanny](https://en.wikipedia.org/wiki/Brittany). I am currently seeking for a 6-months internship from February 27 to August 31 in Computational Biology.
 
 <details>
   <summary>Click to learn more about me!</summary>
