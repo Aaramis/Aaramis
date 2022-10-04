@@ -27,3 +27,7 @@ In parallel to these degrees, I also started an atypical programming school base
 ![Tools - C](https://img.shields.io/badge/Tools-C-Black?logo=C&logoColor=white&color=2bbc8a)
 ![Tools - R](https://img.shields.io/badge/Tools-R-blue?logo=R&logoColor=white&color=2bbc8a)
 ![PostgreSQL](https://img.shields.io/badge/Tools-PostgreSQL-informational?style=flat&logo=postgresql&logoColor=white&color=2bbc8a) 
+
+#### &#xF352; Resume
+
+[Click here](https://aaramis.github.io/) to see my resume.
