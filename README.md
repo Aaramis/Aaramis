@@ -31,3 +31,11 @@ In parallel to these degrees, I also started an atypical programming school base
 #### &#xF352; Resume
 
 [Click here](https://aaramis.github.io/) to see my resume.
+
+#### I'm a student at 42 Paris:
+
+<p align="center">
+  <a href="https://github.com/JaeSeoKim/badge42">
+    <img src="https://badge42.vercel.app/api/v2/cl92rbra700890gl4l7x5aqq7/stats?cursusId=21&coalitionId=47" alt="agardett's 42 stats" />
+  </a>
+</p>
